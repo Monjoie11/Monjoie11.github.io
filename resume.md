@@ -29,7 +29,7 @@ Changed scholarship assessment criteria to include family background and life ha
 
 #### Los Alamos National Laboratory - June to September, 2001, 2002, 2003
 #### Nonproliferation and International Seucity - Remote Sensing Divison
-######Student Tech.
+###### Student Tech.
 Used IDL to develop a program that could use parallax shift to create a 3-D image from two 2-D images.  
 Used Log Sat to create a databse of potential satellite targets and zennith times for use in defense testing.   
 
