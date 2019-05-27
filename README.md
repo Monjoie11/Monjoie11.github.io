@@ -6,6 +6,5 @@ I am a Java and Android developer in the process of becoming an Oracle-certified
 
 My experience outside the technology field is varied, but have had a history of working to steer taems of people to accomlish goals. Please see my resume for information.
 
-
 [R&eacute;sum&eacute;](resume.md)
 
