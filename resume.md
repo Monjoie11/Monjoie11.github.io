@@ -5,7 +5,7 @@ email: [jeff.franken[at]gmail.com](mailto:jeff.franken@gmail.com)
 
 ## Objective:
 
-A junior software development position at a firm offering daily challenge and opportunity for professional and intellectual groWth
+A junior software development position at an organization offering daily challenge and opportunity for professional and intellectual growth
 
 ## Education/Ceritifaction
 
