@@ -3,12 +3,14 @@ Jeff Franken
 Phone: 505-220-9478   
 email: [jeff.franken[at]gmail.com](mailto:jeff.franken@gmail.com)
 
-## Objective
+## Objective:
+
+A junior software development position at a firm offering daily challenge and opportunity for professional and intellectual groWth
 
 ## Education/Ceritifaction
 
-Java Developer I - Oracle - August, 2019
-Java+Andord Development - CNM Deep Dive Coding Bootcamp - Augusr, 2019 
+Java Developer I - Oracle - August, 2019  
+Java+Andord Development - CNM Deep Dive Coding Bootcamp - August, 2019 
 MS Clinical Psychology - NM Highlands University - May, 2016
 BS Physiology and Neuroscience- UC San Diego - December, 2006
 BA World Literature (Spanish/Latin American) - UC San Diego - December, 2006 
