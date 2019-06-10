@@ -10,5 +10,5 @@ My experience outside the technology field is varied, but I have had a history o
 
 ![ProDev Golden Circle](goldencircle.png)
 
-![ProDev Overlapping Bubbles of Awesomeness](mad skillz.png) 
+![ProDev Overlapping Bubbles of Awesomeness](madskillz.png) 
 
