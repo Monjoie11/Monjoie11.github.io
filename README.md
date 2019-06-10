@@ -8,7 +8,7 @@ My experience outside the technology field is varied, but I have had a history o
 
 [R&eacute;sum&eacute;](resume.md)
 
-![ProDev Golden Cirle](golden circle.md)
+[ProDev Golden Cirle](goldencircle.md)
 
-![ProDev Overlapping Bubbles of Awesomeness](mad skills.md) 
+[ProDev Overlapping Bubbles of Awesomeness](mad skills.md) 
 
